@@ -25,6 +25,7 @@ Nesse projeto desenvolvi uma landing page sobre uma ferramenta fictícia que ger
 
 ## 📔 Conhecimentos Utilizados e Desafios
 
+✅ Estruturação de Diretórios\
 ✅ Uso semântico do HTML\
 ✅ Responsividade\
 ✅ Uso de `@keyframe` para efeitos de animação\

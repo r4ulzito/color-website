@@ -20,7 +20,6 @@ Nesse projeto desenvolvi uma landing page sobre uma ferramenta fictícia que ger
 
 ## 📚 Bibliotecas Usadas
 
-- [Google Fonts](https://fonts.google.com/)
 - [Font Awesome](https://fontawesome.com/) (para icones)
 
 ## 📔 Conhecimentos Utilizados e Desafios

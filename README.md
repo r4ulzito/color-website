@@ -1,6 +1,6 @@
 <h1 align="center">🎨 COLOR WEBSITE</h1>
 
-<img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
+<img src="https://user-images.githubusercontent.com/97764322/180359181-d581a576-3418-4219-a50e-b16339c4bb84.gif" alt="preview gif">
 
 > 🔎 Landing page de uma ferramenta fictícia com a função de gerar paletas de cores
 

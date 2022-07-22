@@ -10,24 +10,27 @@
 
 ## 📄 Explicação
 
-Explicação de como funciona o projeto, os components utilizados, ideia do projeto, etc...
+Nesse projeto desenvolvi uma landing page sobre uma ferramenta fictícia que gera paletas de cores, foi muito interessante pois aprendi muito sobre `transitions` e `@keyframes` de animação, também utilizei o JavaScript para adicionar as animações dinâmicamente a partir do scroll da página, o site também é responsivo, se adaptando a diferentes tamanhos de telas.
 
 ## 🚀 Tecnologias
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 3](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 4](https://www.linkedin.com/in/raul-de-souza/)
+- [HTML5](https://pt.wikipedia.org/wiki/HTML5)
+- [CSS3](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 
 ## 📚 Bibliotecas Usadas
 
-- [Example 1](https://www.linkedin.com/in/raul-de-souza/)
-- [Example 2](https://www.linkedin.com/in/raul-de-souza/)
+- [Google Fonts](https://fonts.google.com/)
+- [Font Awesome](https://fontawesome.com/) (para icones)
 
-## 📔 Conhecimentos Utilizados
+## 📔 Conhecimentos Utilizados e Desafios
 
 ✅ Uso semântico do HTML\
-✅ Integração com a API do TMDB ao usar o `fetch`
+✅ Responsividade\
+✅ Uso de `@keyframe` para efeitos de animação\
+✅ Adição de animações dinâmicas utilizando JavaScript\
+✅ Estrutura de variavei globais no script\
+✅ Menu interativo\
 
 ## 🤝 Colaboradores
 

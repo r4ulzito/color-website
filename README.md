@@ -1,10 +1,10 @@
-<h1 align="center">(EMOJI) TÍTULO DO PROJETO</h1>
+<h1 align="center">🎨 COLOR WEBSITE</h1>
 
 <img src="https://www.acheicampos.com.br/uploads/advertiser/default_anunciante_thumbnail.png" alt="Descrição da imagem">
 
-> 🔎 Descrição do projeto (1 a 3 linhas)
+> 🔎 Landing page de uma ferramenta fictícia com a função de gerar paletas de cores
 
-🗔 Confira a aplicação: https://www.linkedin.com/in/raul-de-souza/ <br>
+🗔 Confira a aplicação: https://color-website1.netlify.app<br>
 
 ## 📄 Explicação
 
